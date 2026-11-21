@@ -1,0 +1,3 @@
+# No third-party modules needed to run the app.
+# Python 3.12 includes tkinter.
+# To create the Windows executable: py -3.12 -m pip install pyinstaller
